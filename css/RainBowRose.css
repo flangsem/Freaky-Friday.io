@@ -36,7 +36,7 @@ nav {
   background-color: #ff6961;
 }
 #Redw{
-  color: Red;
+color: Black;
   position: absolute;
   left: 36%;
   right: 10%;
@@ -47,7 +47,7 @@ background-color: #ffb347;
 }
 
 #Orangew{
-color: Orange;
+color: Black;
 position: absolute;
 right: 10%;
 }
@@ -57,7 +57,7 @@ right: 10%;
 }
 
 #Yelloww{
-color: Yellow;
+color: Black;
 position: absolute;
 right: 10%
 }
@@ -67,7 +67,7 @@ right: 10%
 }
 
 #Greenw{
-color: Green;
+color: Black;
 position: absolute;
 left: 35%;
 right: 10%;
@@ -78,7 +78,7 @@ right: 10%;
 }
 
 #Bluew{
-color: Blue;
+color: Black;
 position: absolute;
 right: 10%;
 }
@@ -88,7 +88,7 @@ right: 10%;
 }
 
 #Lillaw{
-color: Purple;
+color: Black;
 position: absolute;
 right: 10%;
 }
